@@ -27,7 +27,7 @@
 		 
 
 #### Note
-- Data is available for academic purposes only.
+- Data is available for academic only.
 - Use data, please cite our paper.
 
 ```
