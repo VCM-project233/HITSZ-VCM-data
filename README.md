@@ -30,6 +30,7 @@
 #### Note
 - Data is available for academic only.
 - Use data, please cite our paper.
+- Note that we recruited volunteers to collect data and obtained the consent of each volunteer. They were clearly aware of the purpose of the data. Of course, we have gotten the IRB approval.
 
 ```
 waiting for bib information...
