@@ -33,5 +33,10 @@
 - Note that we recruited volunteers to collect data and obtained the consent of each volunteer. They were clearly aware of the purpose of the data. Of course, we have gotten the IRB approval.
 
 ```
-waiting for bib information...
+ @inproceedings{lin2022learning,
+	title={Learning modal-invariant and temporal-memory for video-based visible-infrared person re-identification},
+	author={Lin, Xinyu and Li, Jinxing and Ma, Zeyu and Li, Huafeng and Li, Shuang and Xu, Kaixiong and Lu, Guangming and Zhang, David},
+	booktitle={CVPR},
+	year={2022}
+}
 ```
