@@ -1,7 +1,7 @@
 ## Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification
 
-### This is the page for VCM-HIT dataset. 
-### VCM-HIT is a large scale video-based cross-modal dataset for person re-identification.
+### This is the page for HITSZ-VCM dataset. 
+### HITSZ-VCM is a large scale video-based cross-modal dataset for person re-identification.
 
 #### Usage
 
