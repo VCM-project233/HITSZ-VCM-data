@@ -31,7 +31,6 @@
 - Data is available for academic only. This means that it cannot be used to train models for commercial use.
 - You may NOT redistribute the dataset. This includes posting it on a website or sending it to others.
 - Models trained using our data may only be distributed (posted on the internet or given to others) under the condition that the model can only be used for non-commercial uses.
-- Models trained using our data may only be distributed (posted on the internet or given to others) under the condition that the model can only be used for non-commercial uses.
 - Any publications utilizing this dataset should reference our paper.
 
 ```
