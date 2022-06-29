@@ -32,7 +32,8 @@
 - You may NOT redistribute the dataset. This includes posting it on a website or sending it to others.
 - Models trained using our data may only be distributed (posted on the internet or given to others) under the condition that the model can only be used for non-commercial uses.
 - Any publications utilizing this dataset should reference our paper.
-- By downloading or using any of these files, you agree to be bound by and comply with the license agreement.
+
+##### By downloading or using any of these files, you agree to be bound by and comply with the license agreement.
 
 ```
 @inproceedings{lin2022learning,
