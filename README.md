@@ -5,7 +5,7 @@
 
 #### Usage
 
-- Download the Train data [Google Drive](https://drive.google.com/file/d/16codXQuXcgOLtr2ADLzCRMu2FI5zKmSG/view?usp=sharing), Test data [Google Drive](https://drive.google.com/file/d/1UGot89JorJif3MY5o2o9gnM50KudIeTX/view?usp=sharing) and info [Google Drive](https://drive.google.com/file/d/1BApfA5k995wcjW9Ok6Xl6QOY03IOWG05/view?usp=sharing).
+- Download the [Train data](https://drive.google.com/file/d/16codXQuXcgOLtr2ADLzCRMu2FI5zKmSG/view?usp=sharing), [Test data](https://drive.google.com/file/d/1UGot89JorJif3MY5o2o9gnM50KudIeTX/view?usp=sharing) and [info](https://drive.google.com/file/d/1BApfA5k995wcjW9Ok6Xl6QOY03IOWG05/view?usp=sharing) from Google Drive or from [Baidu Netdisk](https://pan.baidu.com/s/1oFYQIJoxCCD1Wk9WTbhbxA) (password: kxzs).
 
 
 - Unzip the data and put the data in the same directory. The path to the data is placed in ```data_manager.py```.
